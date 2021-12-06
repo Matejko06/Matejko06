@@ -12,18 +12,13 @@
 
 ### ✨ Communities I Am Active In
 
-- Minecraft
-  - Anarchy
-
 - Twitch
   - Viktorkaa
   - LipoMeister
 
-- Devour
-
 ### 💎 Projects I have or Am working on
 
-- [MatHax](https://mathaxclient.xyz) - Based Minecraft 1.17.1 utility client for Fabric.
+- [MatHax](https://mathaxclient.xyz) - Based Minecraft 1.18 & 1.17.1 utility client for Fabric.
 
 ![Matejko06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matejko06&count_private=true&show_icons=true&theme=tokyonight)
 

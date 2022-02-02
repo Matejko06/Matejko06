@@ -8,7 +8,14 @@
 ### ⚙️ Languages I have functioning experience in
 
 - Java
+- C#
+- Python
 - HTML & CSS [A bit]
+
+### ⚙️ Programs I use
+
+- IntelliJ IDEA Community
+- Clickteam Fusion 2.5
 
 ### ✨ Communities I Am Active In
 

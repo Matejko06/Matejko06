@@ -8,19 +8,14 @@
 ### ⚙️ Languages I have functioning experience in
 
 - Java
-- C#
-- Python
-- HTML & CSS [A bit]
+- HTML & CSS
+- C# [A bit]
+- Python [A bit]
 
 ### ⚙️ Programs I use
 
 - IntelliJ IDEA Community
 - Clickteam Fusion 2.5
-
-### ✨ Communities I Am Active In
-
-- Twitch
-  - Viktorkaa
 
 ### 💎 Projects I have or Am working on
 
